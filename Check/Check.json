@@ -26,9 +26,9 @@
   "mapLink_tree": [
     {
       "news_mapLink_tree": "يجب عليك تفعيلها كل 8 ساعات",
-      "livik_tree": "https://gametools.take-idea.com/files/NoTree/map_formallivik_2.5.0.17325.pak",
-      "erangel_tree": "https://gametools.take-idea.com/files/NoTree/base_part1_2.5.0.17325.pak",
-      "Sanhok_tree": "https://gametools.take-idea.com/files/NoTree/map_savagemain_2.5.0.17325.pak",
+      "livik_tree": "",
+      "erangel_tree": "",
+      "Sanhok_tree": "",
       "vikendi_tree": "",
       "black_tree": "false"
     }
