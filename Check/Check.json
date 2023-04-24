@@ -1,6 +1,6 @@
 {
   "getData": true,
-  "data_mapLink": "false",
+  "data_mapLink": "ture",
   "data_mapLink_tree": "false",
   "atc": "ture",
   "admob": "ture",
