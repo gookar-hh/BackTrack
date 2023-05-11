@@ -15,8 +15,8 @@
   ],
   "mapLink": [
     {
-      "news_mapLink": "يجب عليك تفعيلها كل 8 ساعات",
-      "livik": "",
+      "news_mapLink": "يجب عليك تفعيلها كل مرة تدخل اللعبة",
+      "livik": "https://hussiendaood.com/hamza/map_formallivik_2.5.0.17325.pak",
       "erangel": "",
       "Sanhok": "",
       "vikendi": "",
@@ -62,8 +62,8 @@
   ],
   "VersionF": [
     {
-      "V1": 1,
-      "V2": 1
+      "V1": 2,
+      "V2": 2
     }
   ]
 }
