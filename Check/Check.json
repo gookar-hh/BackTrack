@@ -17,7 +17,7 @@
     {
       "news_mapLink": "يجب عليك تفعيلها كل مرة تدخل اللعبة",
       "livik": "https://hussiendaood.com/hamza/map_formallivik_2.5.0.17325.pak",
-      "erangel": "",
+      "erangel": "https://archive.org/download/base_part1_2.5.0.17325_202305/base_part1_2.5.0.17325.pak",
       "Sanhok": "",
       "vikendi": "",
       "black": ""
@@ -62,8 +62,8 @@
   ],
   "VersionF": [
     {
-      "V1": 2,
-      "V2": 2
+      "V1": 3,
+      "V2": 3
     }
   ]
 }
